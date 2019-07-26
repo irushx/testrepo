@@ -2,9 +2,9 @@
   "build_entry_point": "op",
   "docsets_to_publish": [
     {
-      "docset_name": "testrepo1",
-      "build_source_folder": "testrepo1",
-      "build_output_subfolder": "testrepo1",
+      "docset_name": "testrepo1111",
+      "build_source_folder": "testrepo1111",
+      "build_output_subfolder": "testrepo1111",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
