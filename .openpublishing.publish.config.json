@@ -1,5 +1,5 @@
 {
-  "build_entry_point": "op",
+  "build_entry_point": "docs",
   "docsets_to_publish": [
     {
       "docset_name": "testrepo1111",
@@ -12,7 +12,7 @@
       "type_mapping": {
         "Conceptual": "Content"
       },
-      "build_entry_point": "op"
+      "build_entry_point": "docs"
     }
   ],
   "notification_subscribers": [],
